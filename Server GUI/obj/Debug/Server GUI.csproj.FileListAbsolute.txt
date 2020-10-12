@@ -1,0 +1,207 @@
+C:\Users\Ohad\Desktop\OhadsChat\Server GUI\bin\Debug\Server GUI.exe.config
+C:\Users\Ohad\Desktop\OhadsChat\Server GUI\bin\Debug\Server GUI.exe
+C:\Users\Ohad\Desktop\OhadsChat\Server GUI\bin\Debug\Server GUI.pdb
+C:\Users\Ohad\Desktop\OhadsChat\Server GUI\obj\Debug\Server GUI.csprojResolveAssemblyReference.cache
+C:\Users\Ohad\Desktop\OhadsChat\Server GUI\obj\Debug\Server_GUI.Properties.Resources.resources
+C:\Users\Ohad\Desktop\OhadsChat\Server GUI\obj\Debug\Server GUI.csproj.GenerateResource.Cache
+C:\Users\Ohad\Desktop\OhadsChat\Server GUI\obj\Debug\Server GUI.exe
+C:\Users\Ohad\Desktop\OhadsChat\Server GUI\obj\Debug\Server GUI.pdb
+C:\Users\Ohad\Desktop\OhadsChat\Server GUI\obj\Debug\Server_GUI.About.resources
+C:\Users\Ohad\Desktop\OhadsChat\Server GUI\obj\Debug\Server_GUI.MainForm.resources
+C:\Users\Ohad\Desktop\OhadsChat\Server GUI\obj\Debug\Server_GUI.HowToUse.resources
+F:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server GUI.exe.config
+F:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.exe
+F:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.pdb
+F:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server GUI.exe
+F:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server GUI.pdb
+F:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.csprojResolveAssemblyReference.cache
+F:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.About.resources
+F:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.HowToUse.resources
+F:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.MainForm.resources
+F:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.Properties.Resources.resources
+F:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.csproj.GenerateResource.Cache
+F:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.StartServerDialog.resources
+F:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server Logic.dll
+F:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server Logic.pdb
+F:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.VirtualForm.resources
+E:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server GUI.exe.config
+E:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.exe
+E:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.pdb
+E:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server GUI.exe
+E:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server GUI.pdb
+E:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server Logic.dll
+E:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Communicator.dll
+E:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server Logic.pdb
+E:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Communicator.pdb
+E:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.csprojResolveAssemblyReference.cache
+E:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.About.resources
+E:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.StartServerDialog.resources
+E:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.HowToUse.resources
+E:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.MainForm.resources
+E:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.Properties.Resources.resources
+E:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.VirtualForm.resources
+E:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.csproj.GenerateResource.Cache
+F:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Communicator.dll
+F:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Communicator.pdb
+C:\Users\Ohad\Desktop\Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server GUI.exe.config
+C:\Users\Ohad\Desktop\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.exe
+C:\Users\Ohad\Desktop\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.pdb
+C:\Users\Ohad\Desktop\Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server GUI.exe
+C:\Users\Ohad\Desktop\Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server GUI.pdb
+C:\Users\Ohad\Desktop\Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server Logic.dll
+C:\Users\Ohad\Desktop\Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Communicator.dll
+C:\Users\Ohad\Desktop\Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server Logic.pdb
+C:\Users\Ohad\Desktop\Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Communicator.pdb
+C:\Users\Ohad\Desktop\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.csprojResolveAssemblyReference.cache
+C:\Users\Ohad\Desktop\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.About.resources
+C:\Users\Ohad\Desktop\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.StartServerDialog.resources
+C:\Users\Ohad\Desktop\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.HowToUse.resources
+C:\Users\Ohad\Desktop\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.MainForm.resources
+C:\Users\Ohad\Desktop\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.Properties.Resources.resources
+C:\Users\Ohad\Desktop\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.VirtualForm.resources
+C:\Users\Ohad\Desktop\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.csproj.GenerateResource.Cache
+D:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server GUI.exe.config
+D:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.exe
+D:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.pdb
+D:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server GUI.exe
+D:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server GUI.pdb
+D:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server Logic.dll
+D:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Communicator.dll
+D:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server Logic.pdb
+D:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Communicator.pdb
+D:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.csprojResolveAssemblyReference.cache
+D:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.About.resources
+D:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.StartServerDialog.resources
+D:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.HowToUse.resources
+D:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.MainForm.resources
+D:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.Properties.Resources.resources
+D:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.VirtualForm.resources
+D:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.csproj.GenerateResource.Cache
+D:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.SendMessageDialog.resources
+F:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.SendMessageDialog.resources
+E:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.SendMessageDialog.resources
+C:\Users\Ohad\Desktop\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.SendMessageDialog.resources
+C:\Users\Ohad\Desktop\OhadsChat\Server GUI\bin\Debug\Communicator.dll
+C:\Users\Ohad\Desktop\OhadsChat\Server GUI\bin\Debug\Server Logic.dll
+C:\Users\Ohad\Desktop\OhadsChat\Server GUI\bin\Debug\Communicator.pdb
+C:\Users\Ohad\Desktop\OhadsChat\Server GUI\bin\Debug\Server Logic.pdb
+C:\Users\Ohad\Desktop\OhadsChat\Server GUI\obj\Debug\Server_GUI.SendMessageDialog.resources
+C:\Users\Ohad\Desktop\OhadsChat\Server GUI\obj\Debug\Server_GUI.StartServerDialog.resources
+C:\Users\Ohad\Desktop\OhadsChat\Server GUI\obj\Debug\Server_GUI.VirtualForm.resources
+C:\Users\Ohad\Desktop\new Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server GUI.exe.config
+C:\Users\Ohad\Desktop\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.exe
+C:\Users\Ohad\Desktop\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.pdb
+C:\Users\Ohad\Desktop\new Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server GUI.exe
+C:\Users\Ohad\Desktop\new Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server GUI.pdb
+C:\Users\Ohad\Desktop\new Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Communicator.dll
+C:\Users\Ohad\Desktop\new Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server Logic.dll
+C:\Users\Ohad\Desktop\new Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Communicator.pdb
+C:\Users\Ohad\Desktop\new Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server Logic.pdb
+C:\Users\Ohad\Desktop\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.csprojResolveAssemblyReference.cache
+C:\Users\Ohad\Desktop\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.About.resources
+C:\Users\Ohad\Desktop\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.SendMessageDialog.resources
+C:\Users\Ohad\Desktop\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.StartServerDialog.resources
+C:\Users\Ohad\Desktop\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.HowToUse.resources
+C:\Users\Ohad\Desktop\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.MainForm.resources
+C:\Users\Ohad\Desktop\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.Properties.Resources.resources
+C:\Users\Ohad\Desktop\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.VirtualForm.resources
+C:\Users\Ohad\Desktop\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.csproj.GenerateResource.Cache
+D:\new Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server GUI.exe.config
+D:\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.exe
+D:\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.pdb
+E:\new Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server GUI.exe.config
+E:\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.exe
+E:\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.pdb
+E:\new Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server GUI.exe
+E:\new Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server GUI.pdb
+E:\new Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Communicator.dll
+E:\new Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server Logic.dll
+E:\new Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Communicator.pdb
+E:\new Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server Logic.pdb
+E:\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.csprojResolveAssemblyReference.cache
+E:\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.About.resources
+E:\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.SendMessageDialog.resources
+E:\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.StartServerDialog.resources
+E:\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.HowToUse.resources
+E:\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.MainForm.resources
+E:\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.Properties.Resources.resources
+E:\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.VirtualForm.resources
+E:\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.csproj.GenerateResource.Cache
+F:\new Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server GUI.exe.config
+F:\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.exe
+F:\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.pdb
+F:\new Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server GUI.exe
+F:\new Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server GUI.pdb
+F:\new Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Communicator.dll
+F:\new Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server Logic.dll
+F:\new Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Communicator.pdb
+F:\new Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server Logic.pdb
+F:\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.csprojResolveAssemblyReference.cache
+F:\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.About.resources
+F:\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.SendMessageDialog.resources
+F:\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.StartServerDialog.resources
+F:\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.HowToUse.resources
+F:\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.MainForm.resources
+F:\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.Properties.Resources.resources
+F:\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.VirtualForm.resources
+F:\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.csproj.GenerateResource.Cache
+C:\Users\Ohad\Desktop\Normal with image\new Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server GUI.exe.config
+C:\Users\Ohad\Desktop\Normal with image\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.exe
+C:\Users\Ohad\Desktop\Normal with image\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.pdb
+C:\Users\Ohad\Desktop\Normal with image\new Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server GUI.exe
+C:\Users\Ohad\Desktop\Normal with image\new Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server GUI.pdb
+C:\Users\Ohad\Desktop\Normal with image\new Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Communicator.dll
+C:\Users\Ohad\Desktop\Normal with image\new Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server Logic.dll
+C:\Users\Ohad\Desktop\Normal with image\new Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Communicator.pdb
+C:\Users\Ohad\Desktop\Normal with image\new Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server Logic.pdb
+C:\Users\Ohad\Desktop\Normal with image\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.csprojResolveAssemblyReference.cache
+C:\Users\Ohad\Desktop\Normal with image\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.About.resources
+C:\Users\Ohad\Desktop\Normal with image\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.SendMessageDialog.resources
+C:\Users\Ohad\Desktop\Normal with image\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.StartServerDialog.resources
+C:\Users\Ohad\Desktop\Normal with image\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.HowToUse.resources
+C:\Users\Ohad\Desktop\Normal with image\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.MainForm.resources
+C:\Users\Ohad\Desktop\Normal with image\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.Properties.Resources.resources
+C:\Users\Ohad\Desktop\Normal with image\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.VirtualForm.resources
+C:\Users\Ohad\Desktop\Normal with image\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.csproj.GenerateResource.Cache
+C:\Users\Ohad\Desktop\Final Chat\new Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server GUI.exe.config
+C:\Users\Ohad\Desktop\Final Chat\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.exe
+C:\Users\Ohad\Desktop\Final Chat\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.pdb
+C:\Users\Ohad\Desktop\Final Chat\new Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server GUI.exe
+C:\Users\Ohad\Desktop\Final Chat\new Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server GUI.pdb
+C:\Users\Ohad\Desktop\Final Chat\new Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Communicator.dll
+C:\Users\Ohad\Desktop\Final Chat\new Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server Logic.dll
+C:\Users\Ohad\Desktop\Final Chat\new Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Communicator.pdb
+C:\Users\Ohad\Desktop\Final Chat\new Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server Logic.pdb
+C:\Users\Ohad\Desktop\Final Chat\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.csprojResolveAssemblyReference.cache
+C:\Users\Ohad\Desktop\Final Chat\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.About.resources
+C:\Users\Ohad\Desktop\Final Chat\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.SendMessageDialog.resources
+C:\Users\Ohad\Desktop\Final Chat\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.StartServerDialog.resources
+C:\Users\Ohad\Desktop\Final Chat\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.HowToUse.resources
+C:\Users\Ohad\Desktop\Final Chat\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.MainForm.resources
+C:\Users\Ohad\Desktop\Final Chat\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.Properties.Resources.resources
+C:\Users\Ohad\Desktop\Final Chat\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.VirtualForm.resources
+C:\Users\Ohad\Desktop\Final Chat\new Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.csproj.GenerateResource.Cache
+F:\John Bryce\+++ John Bryce Projects +++\Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server GUI.exe.config
+F:\John Bryce\+++ John Bryce Projects +++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.exe
+F:\John Bryce\+++ John Bryce Projects +++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.pdb
+F:\+ John Bryce +\+++ John Bryce Projects +++\Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server GUI.exe.config
+F:\+ John Bryce +\+++ John Bryce Projects +++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.exe
+F:\+ John Bryce +\+++ John Bryce Projects +++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.pdb
+F:\+ John Bryce +\+++ John Bryce Projects +++\Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server GUI.exe
+F:\+ John Bryce +\+++ John Bryce Projects +++\Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server GUI.pdb
+F:\+ John Bryce +\+++ John Bryce Projects +++\Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Communicator.dll
+F:\+ John Bryce +\+++ John Bryce Projects +++\Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server Logic.dll
+F:\+ John Bryce +\+++ John Bryce Projects +++\Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Communicator.pdb
+F:\+ John Bryce +\+++ John Bryce Projects +++\Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server Logic.pdb
+F:\+ John Bryce +\+++ John Bryce Projects +++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.csprojResolveAssemblyReference.cache
+F:\+ John Bryce +\+++ John Bryce Projects +++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.About.resources
+F:\+ John Bryce +\+++ John Bryce Projects +++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.SendMessageDialog.resources
+F:\+ John Bryce +\+++ John Bryce Projects +++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.StartServerDialog.resources
+F:\+ John Bryce +\+++ John Bryce Projects +++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.HowToUse.resources
+F:\+ John Bryce +\+++ John Bryce Projects +++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.MainForm.resources
+F:\+ John Bryce +\+++ John Bryce Projects +++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.Properties.Resources.resources
+F:\+ John Bryce +\+++ John Bryce Projects +++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server_GUI.VirtualForm.resources
+F:\+ John Bryce +\+++ John Bryce Projects +++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.csproj.GenerateResource.Cache
+D:\+ John Bryce +\+++ John Bryce .NET +++\+++ John Bryce .NET Projects +++\Chat (Advanced C#)\OhadsChat\Server GUI\bin\Debug\Server GUI.exe.config
+D:\+ John Bryce +\+++ John Bryce .NET +++\+++ John Bryce .NET Projects +++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.exe
+D:\+ John Bryce +\+++ John Bryce .NET +++\+++ John Bryce .NET Projects +++\Chat (Advanced C#)\OhadsChat\Server GUI\obj\Debug\Server GUI.pdb

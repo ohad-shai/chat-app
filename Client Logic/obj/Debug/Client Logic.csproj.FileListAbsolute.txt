@@ -1,0 +1,84 @@
+C:\Users\Ohad\Desktop\OhadsChat\Client Logic\bin\Debug\Client Logic.dll
+C:\Users\Ohad\Desktop\OhadsChat\Client Logic\bin\Debug\Client Logic.pdb
+C:\Users\Ohad\Desktop\OhadsChat\Client Logic\obj\Debug\Client Logic.csprojResolveAssemblyReference.cache
+C:\Users\Ohad\Desktop\OhadsChat\Client Logic\obj\Debug\Client Logic.dll
+C:\Users\Ohad\Desktop\OhadsChat\Client Logic\obj\Debug\Client Logic.pdb
+F:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Client Logic.dll
+F:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Client Logic.pdb
+F:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Communicator.dll
+F:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Communicator.pdb
+F:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Client Logic\obj\Debug\Client Logic.csprojResolveAssemblyReference.cache
+F:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Client Logic\obj\Debug\Client Logic.dll
+F:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Client Logic\obj\Debug\Client Logic.pdb
+E:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Client Logic\obj\Debug\Client Logic.csprojResolveAssemblyReference.cache
+E:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Client Logic\obj\Debug\Client Logic.dll
+E:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Client Logic.dll
+E:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Client Logic.pdb
+E:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Communicator.dll
+E:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Communicator.pdb
+E:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Client Logic\obj\Debug\Client Logic.pdb
+C:\Users\Ohad\Desktop\Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Client Logic.dll
+C:\Users\Ohad\Desktop\Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Client Logic.pdb
+C:\Users\Ohad\Desktop\Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Communicator.dll
+C:\Users\Ohad\Desktop\Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Communicator.pdb
+C:\Users\Ohad\Desktop\Chat (Advanced C#)\OhadsChat\Client Logic\obj\Debug\Client Logic.csprojResolveAssemblyReference.cache
+C:\Users\Ohad\Desktop\Chat (Advanced C#)\OhadsChat\Client Logic\obj\Debug\Client Logic.dll
+C:\Users\Ohad\Desktop\Chat (Advanced C#)\OhadsChat\Client Logic\obj\Debug\Client Logic.pdb
+D:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Client Logic.dll
+D:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Client Logic.pdb
+D:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Communicator.dll
+D:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Communicator.pdb
+D:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Client Logic\obj\Debug\Client Logic.csprojResolveAssemblyReference.cache
+D:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Client Logic\obj\Debug\Client Logic.dll
+D:\Projects\++ John Bryce Projects ++\Chat (Advanced C#)\OhadsChat\Client Logic\obj\Debug\Client Logic.pdb
+C:\Users\Ohad\Desktop\OhadsChat\Client Logic\bin\Debug\Communicator.dll
+C:\Users\Ohad\Desktop\OhadsChat\Client Logic\bin\Debug\Communicator.pdb
+C:\Users\Ohad\Desktop\new Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Client Logic.dll
+C:\Users\Ohad\Desktop\new Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Client Logic.pdb
+C:\Users\Ohad\Desktop\new Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Communicator.dll
+C:\Users\Ohad\Desktop\new Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Communicator.pdb
+C:\Users\Ohad\Desktop\new Chat (Advanced C#)\OhadsChat\Client Logic\obj\Debug\Client Logic.csprojResolveAssemblyReference.cache
+C:\Users\Ohad\Desktop\new Chat (Advanced C#)\OhadsChat\Client Logic\obj\Debug\Client Logic.dll
+C:\Users\Ohad\Desktop\new Chat (Advanced C#)\OhadsChat\Client Logic\obj\Debug\Client Logic.pdb
+D:\new Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Client Logic.dll
+D:\new Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Client Logic.pdb
+D:\new Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Communicator.dll
+D:\new Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Communicator.pdb
+D:\new Chat (Advanced C#)\OhadsChat\Client Logic\obj\Debug\Client Logic.csprojResolveAssemblyReference.cache
+D:\new Chat (Advanced C#)\OhadsChat\Client Logic\obj\Debug\Client Logic.dll
+D:\new Chat (Advanced C#)\OhadsChat\Client Logic\obj\Debug\Client Logic.pdb
+E:\new Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Client Logic.dll
+E:\new Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Client Logic.pdb
+E:\new Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Communicator.dll
+E:\new Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Communicator.pdb
+E:\new Chat (Advanced C#)\OhadsChat\Client Logic\obj\Debug\Client Logic.csprojResolveAssemblyReference.cache
+E:\new Chat (Advanced C#)\OhadsChat\Client Logic\obj\Debug\Client Logic.dll
+E:\new Chat (Advanced C#)\OhadsChat\Client Logic\obj\Debug\Client Logic.pdb
+F:\new Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Client Logic.dll
+F:\new Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Client Logic.pdb
+F:\new Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Communicator.dll
+F:\new Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Communicator.pdb
+F:\new Chat (Advanced C#)\OhadsChat\Client Logic\obj\Debug\Client Logic.csprojResolveAssemblyReference.cache
+F:\new Chat (Advanced C#)\OhadsChat\Client Logic\obj\Debug\Client Logic.dll
+F:\new Chat (Advanced C#)\OhadsChat\Client Logic\obj\Debug\Client Logic.pdb
+C:\Users\Ohad\Desktop\Normal with image\new Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Client Logic.dll
+C:\Users\Ohad\Desktop\Normal with image\new Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Client Logic.pdb
+C:\Users\Ohad\Desktop\Normal with image\new Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Communicator.dll
+C:\Users\Ohad\Desktop\Normal with image\new Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Communicator.pdb
+C:\Users\Ohad\Desktop\Normal with image\new Chat (Advanced C#)\OhadsChat\Client Logic\obj\Debug\Client Logic.csprojResolveAssemblyReference.cache
+C:\Users\Ohad\Desktop\Normal with image\new Chat (Advanced C#)\OhadsChat\Client Logic\obj\Debug\Client Logic.dll
+C:\Users\Ohad\Desktop\Normal with image\new Chat (Advanced C#)\OhadsChat\Client Logic\obj\Debug\Client Logic.pdb
+C:\Users\Ohad\Desktop\Final Chat\new Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Client Logic.dll
+C:\Users\Ohad\Desktop\Final Chat\new Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Client Logic.pdb
+C:\Users\Ohad\Desktop\Final Chat\new Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Communicator.dll
+C:\Users\Ohad\Desktop\Final Chat\new Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Communicator.pdb
+C:\Users\Ohad\Desktop\Final Chat\new Chat (Advanced C#)\OhadsChat\Client Logic\obj\Debug\Client Logic.csprojResolveAssemblyReference.cache
+C:\Users\Ohad\Desktop\Final Chat\new Chat (Advanced C#)\OhadsChat\Client Logic\obj\Debug\Client Logic.dll
+C:\Users\Ohad\Desktop\Final Chat\new Chat (Advanced C#)\OhadsChat\Client Logic\obj\Debug\Client Logic.pdb
+F:\+ John Bryce +\+++ John Bryce Projects +++\Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Client Logic.dll
+F:\+ John Bryce +\+++ John Bryce Projects +++\Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Client Logic.pdb
+F:\+ John Bryce +\+++ John Bryce Projects +++\Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Communicator.dll
+F:\+ John Bryce +\+++ John Bryce Projects +++\Chat (Advanced C#)\OhadsChat\Client Logic\bin\Debug\Communicator.pdb
+F:\+ John Bryce +\+++ John Bryce Projects +++\Chat (Advanced C#)\OhadsChat\Client Logic\obj\Debug\Client Logic.csprojResolveAssemblyReference.cache
+F:\+ John Bryce +\+++ John Bryce Projects +++\Chat (Advanced C#)\OhadsChat\Client Logic\obj\Debug\Client Logic.dll
+F:\+ John Bryce +\+++ John Bryce Projects +++\Chat (Advanced C#)\OhadsChat\Client Logic\obj\Debug\Client Logic.pdb
